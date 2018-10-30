@@ -1,0 +1,25 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "gql": "^1.1.2",
+    "graphql": "^14.0.2",
+    "next": "^7.0.2",
+    "next-apollo": "^2.0.0",
+    "react": "^16.6.0",
+    "react-apollo": "^2.2.4",
+    "react-dom": "^16.6.0",
+    "reactstrap": "^6.5.0",
+    "recompose": "^0.30.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "",
+  "license": "ISC"
+}
